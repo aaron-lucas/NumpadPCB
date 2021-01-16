@@ -1,4 +1,4 @@
-16751847358866093
+16755065864567093
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -1452,6 +1452,13 @@ Button_Switch_SMD
 SW_SPST_TL3342
 Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
 SPST Tactile Switch
+0
+4
+2
+Button_Switch_SMD
+TACTILE_SWITCH_SPST_SMD_5.2MM
+MOMENTARY SWITCH (PUSHBUTTON) - SPST - SMD, 5.2MM SQUARE
+MOMENTARY SWITCH (PUSHBUTTON) - SPST - SMD, 5.2MM SQUARE
 0
 4
 2
@@ -68641,6 +68648,13 @@ RockerSwitch_RA
 0
 4
 2
+Switches
+SPDT_Toggle_Switch_Jaycar_ST0546
+
+
+0
+3
+3
 Switches
 STOMP_SWITCH_3PDT
 3-POLE, DOUBLE-THROW (3PDT) STOMP SWITCH
